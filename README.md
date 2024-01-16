@@ -1,6 +1,6 @@
 ## This file contain solution code for fetching following details from system
 
-1.All Installed software’s list
+1.All Installed software’s list <BR>
 2.Internet Speed
 3.Screen resolvution
 4.CPU model
