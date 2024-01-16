@@ -1,4 +1,4 @@
-## **This file contain solution code for fetching following details from system**
+## **This file contains solution code for fetching following details from system**
 
 1.All Installed software’s list <BR>
 2.Internet Speed <BR>
